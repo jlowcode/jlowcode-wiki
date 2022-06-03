@@ -1,0 +1,20 @@
+:root{  --sidebar-toggle-background: #ceedef;
+        --sidebar-toggle-icon-color: #298596; 
+        --sidebar-toggle-border-color: transparent;
+        --sidebar-toggle-offset-top: calc(45px - (var(--sidebar-toggle-height) / 2));
+        --sidebar-nav-link-font-weight--hover: unset;
+        --sidebar-nav-indent: 10px;
+}
+
+/* Navbar menu */
+.app-nav li ul {
+    border-radius: 0;
+    padding: 0;
+}
+.app-nav ul li>p {
+    font-size: 1rem;
+}
+
+.app-nav:not(:empty) ~ main .markdown-section {
+    padding-top: 6rem;
+}
