@@ -10,7 +10,7 @@ The `Action List` plugin allows you to add a new action to the actions line of a
 
 ## Specifications
 <div align="center">
-  <img src="./.github/1.png" />
+  <img src="../images/action1.png" />
 </div>
 <br />
 
@@ -29,5 +29,5 @@ After performing the necessary configurations by inserting the desired parameter
 
 <br />
 <div align="center">
-  <img src="./.github/2.png" />
+  <img src="../images/action2.png" />
 </div>
