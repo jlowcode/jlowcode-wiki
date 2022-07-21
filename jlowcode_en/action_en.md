@@ -1,7 +1,7 @@
 # Fabrik Action List 
 
 <div align="center">
-  <img src="./.github/jlowcodelogo.png" width="350" />
+  <img src="../images/jlowcodelogo.png" width="350" />
 </div>
 
 
