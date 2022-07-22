@@ -22,6 +22,7 @@ Following these instructions will have no problem with the changes.
 </ol>
 <h2>Installation</h2>
 <p>To do so, in your Joomla admin screen, go to Extensions->Manage->Install and click on the Upload Package File tab as in the image below.</p>
+
 ![Installation](../images/administrativetools1.png)
 
 After that, just browse the .zip files and drag them to the selection box, if everything happens as expected in the installation, the result should be the following.
@@ -36,7 +37,7 @@ A package with selected tables can be generated and a file uploaded that will be
 ![Package](../images/administrativetools3.png)
 
 <h3>Import and Export List</h3>
-fabrik lists can be exported, along with all elements, forms, groups, plugins and custom settings.
+Fabrik lists can be exported, along with all elements, forms, groups, plugins and custom settings.
 <li>To export you must select one or more lists and click on export, where a json file will be generated, which can be imported by another site.</li>
 <li>To import you must select the generated json file in file input and click on import.</li>
 
@@ -46,12 +47,13 @@ fabrik lists can be exported, along with all elements, forms, groups, plugins an
 Transforms the element type.
 
 <li>You must select the list, source element and type of transformation</li>
+
 ![Element Transformation](../images/administrativetools5.png)
 
 <h3>OAI PMH Data Extraction</h3>
 Functionality to collect records from institutional repositories and digital libraries.
 Some online repositories expose their metadata through the OAI-PMH. This plugin makes it possible to collect this metadata, mapping it to the Omeka data model. The plugin can be used for one-time data transfers or to keep up to date with changes in an online repository.
-Atualmente, o plugin é capaz de importar metadados Dublin Core , CDWA Lite e METS . Dublin Core é um padrão reconhecido internacionalmente para descrever qualquer recurso.
+Currently, the plugin is capable of importing Dublin Core, CDWA Lite and METS metadata. Dublin Core is an internationally recognized standard for describing any resource.
 
 ![OAI PMH Data Extraction](../images/administrativetools6.png)
 
