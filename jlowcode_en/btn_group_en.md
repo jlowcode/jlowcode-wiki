@@ -23,7 +23,7 @@ With the plugin properly installed in Joomla, access joomla and choose the eleme
 You can create a Button, which when clicked by the user, executes a PHP code.
 
 <p align="center">
-    <img src="../images/brngroup02.jpeg">
+    <img src="../images/btngroup02.jpeg">
 </p>
 <p align="center">
     <img src="../images/btngroup03.jpeg">
