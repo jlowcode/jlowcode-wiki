@@ -1,6 +1,6 @@
 # Bagit Plugin
 <h1 align="center">
-  <img alt="Joomla" title="Joomla" src="img/logo.png" width="220px" />
+  <img alt="Joomla" title="Joomla" src="../images/bagitlogo.png" width="220px" />
 </h1>
 
 ## 🚀 Specifications
@@ -17,13 +17,13 @@
 <p>The 1st step is to configure the plugin.</p>
 
 <p align="center">
-  <img alt="First step" src="../imgens/bagitpasso_um.png" width="100%">
+  <img alt="First step" src="../images/bagitpasso_um.png" width="100%">
 </p>
 
 <p>Then configure each element respectively:</p>
 
 <p align="center">
-  <img alt="Second step" src="../imgens/bagitpasso_dois.png" width="100%">
+  <img alt="Second step" src="../images/bagitpasso_dois.png" width="100%">
 </p>
 
 <p><b>2</b>: Configures the temporary path where the log folders are generated.</p>
