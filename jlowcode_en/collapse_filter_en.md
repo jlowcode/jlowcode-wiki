@@ -30,5 +30,5 @@ The Plugin does not require many configurations, for it to work just activate it
 </p>
 
 <div align="center">
-  <img src="../images/collapsefilter3.png" />
+  <img src="../images/collapserfilter3.png" />
 </div>
