@@ -16,7 +16,7 @@ The options that appear are part of the configuration of the plugin that will be
 - `Published`: defines if the plugin is published or not.
 - `--do--*` : allows you to select the type of plugin you want, in which case `comparison` will be selected.
 - `Description`: is an optional field to describe the functionality of the plugin, being very useful when there are several plugins of the same type.
-<img src="/images/2.png" width="900px" />
+<img src="../images/comparison2.png" width="900px" />
 
 ### Adds a button to the list, allowing elements comparison
 
