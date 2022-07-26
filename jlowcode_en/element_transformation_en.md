@@ -43,7 +43,7 @@ Among the types of transformations there are 4 possibilities:
 
 <p> In this transformation, the user must select the Transformation Type "String Multivalue to Dropdown", after selecting the Source Element and Destination Element, the element has its type changed in fabrik's internal table: it is changed from Field to DropDown. All different values found in the table for this field are stored in json as dropdown element options. So, if you have state names in this field, each state is automatically added as an option in the converted element dropdown.</p>
 <div align="center">
-  <img src="../imagens/element_transformation2.png" />
+  <img src="../images/element_transformation2.png" />
 </div>
 
 After the transformation, the admin must access the transformed element and select the multiple selections option.
@@ -56,7 +56,7 @@ Example of the result in the database:
 <br />
 
 <div align="center">
-  <img src="../imagens/element_transformation3.png" />
+  <img src="../images/element_transformation3.png" />
 </div>
 
 <br />
