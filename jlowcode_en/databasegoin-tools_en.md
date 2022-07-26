@@ -22,5 +22,5 @@
 <p><b>3</b>: The admin chooses the sync role.</p>
 
 <p align="center">
-  <img alt="dashboard" src="../images/tutorial.png" width="100%">
+  <img alt="dashboard" src="../images/databasegointutorial.png" width="100%">
 </p>
