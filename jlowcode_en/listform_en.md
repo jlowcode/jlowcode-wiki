@@ -20,15 +20,15 @@
 
 <p><b>1</b>: It doesn't show anything in the ADD/EDIT Form.</p>
 <p align="center">
-  <img alt="Tutorial" src="images/listformtutorial_1.png" width="100%">
+  <img alt="Tutorial" src="../images/listformtutorial_1.png" width="100%">
 </p>
 
 <p><b>2</b>: After the last element of the record it shows a list of comments and a form to add a new comment.</p>
 <p align="center">
-  <img alt="Tutorial" src="images/listformtutorial_2.png" width="100%">
+  <img alt="Tutorial" src="../images/listformtutorial_2.png" width="100%">
 </p>
 
 <p><b>3</b>: Display in the record view of the target list, the List with the databasejoin filtered by the ID of the viewed record.</p>
 <p align="center">
-  <img alt="Tutorial" src="images/listformtutorial_3.png" width="100%">
+  <img alt="Tutorial" src="../images/listformtutorial_3.png" width="100%">
 </p>
