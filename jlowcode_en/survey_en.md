@@ -6,7 +6,7 @@
 
 ## About
 
-<p>OSurvey Plugin is an Element plugin, through the use of this plugin it is possible to create a poll element for voting where you can configure several alternatives.</p>
+<p>Survey Plugin is an Element plugin, through the use of this plugin it is possible to create a poll element for voting where you can configure several alternatives.</p>
 
 <p>Example: </p>
 <ul>
