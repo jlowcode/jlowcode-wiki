@@ -9,5 +9,8 @@
 - Comece a usar o Docsify
   - [Início Rápido](iniciorapido.md "Início rápido")
   - [Adicionando Novas Páginas](criandopaginas.md "Adicionando Páginas")
+
+- Plugins
+  - [Texarea](/jlowcode/textarea/README.md "Plugin Textarea")
  
 
