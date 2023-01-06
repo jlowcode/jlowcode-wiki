@@ -11,6 +11,7 @@
   - [Adicionando Novas Páginas](criandopaginas.md "Adicionando Páginas")
 
 - Plugins
-  - [Textarea](/textarea/README.md "Plugin Textarea")
+  - [Elemento Textarea](/textarea/README.md "Plugin Textarea")
+  - [Elemento Date](jlowcode/date#fabrik-element-date "Plugin Date")
  
 
