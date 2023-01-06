@@ -11,6 +11,6 @@
   - [Adicionando Novas Páginas](criandopaginas.md "Adicionando Páginas")
 
 - Plugins
-  - [Texarea](/jlowcode/textarea/README.md "Plugin Textarea")
+  - [Textarea](/jlowcode/textarea/README.md "Plugin Textarea")
  
 
